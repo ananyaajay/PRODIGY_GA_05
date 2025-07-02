@@ -1,6 +1,6 @@
 # PRODIGY_GA_05
 
-# Neural Style Transfer
+# Neural Style Transfer 🤖
 
 This project focuses on Neural Style Transfer. Neural Style Transfer is a technique in deep learning that applies the artistic style of one image to the content of another, producing a new, stylized image. The repository is implemented in Python and is publicly available. 
 
